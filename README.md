@@ -1,6 +1,6 @@
 # belajar_state_manager
 
-A new Flutter project.
+A Flutter project to learn basic of state management.
 
 ## Getting Started
 
